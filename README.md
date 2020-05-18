@@ -1,4 +1,4 @@
-# Ecommerce MERN
+# Apollo Graphql
 
 This project is a basic listing application created solely for learning graphql. 
 
